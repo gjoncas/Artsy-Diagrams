@@ -87,10 +87,10 @@
 	\node[regular polygon,regular polygon sides=6,minimum size=0.5cm,draw,rotate=30] at (-1.55,1) {};
 	\node[regular polygon,regular polygon sides=6,minimum size=0.5cm,draw,rotate=30] at ( 1.55,1) {};
 	\node[regular polygon,regular polygon sides=6,minimum size=0.5cm,draw,rotate=30] at (0,-1.55) {};
-	\node[regular polygon,regular polygon sides=6,minimum size=0.8cm,draw,rotate=30] at (-2,2.5) {};
-		\foreach \p in {1,...,20} \fill[gray] (-2+0.25*rand,2.5+0.25*rand) circle (0.35pt); %frost
-	\node[regular polygon,regular polygon sides=6,minimum size=0.8cm,draw,rotate=30] at (-2,3.5) {};
-		\foreach \p in {1,...,75} \fill[gray] (-2+0.25*rand,3.5+0.25*rand) circle (0.35pt); %rime
+	\node[regular polygon,regular polygon sides=6,minimum size=.8cm,draw,rotate=30] at (-1.875,2.5) {};
+		\foreach \p in {1,...,20} \fill[gray] (-1.875+.25*rand,2.5+.25*rand) circle (.35pt); %frost
+	\node[regular polygon,regular polygon sides=6,minimum size=.8cm,draw,rotate=30] at (-1.875,3.5) {};
+		\foreach \p in {1,...,75} \fill[gray] (-1.875+.25*rand,3.5+.25*rand) circle (.35pt); %rime
 	
 	%SNOWFLAKES
 	%rimed dendrite -- true rime (-0.625,3.5)
@@ -162,9 +162,9 @@
 	%stellar crystal (0,0.35)
 	\foreach \x in {0,...,5} \draw[line cap=round] (0,.35)--++({.25*cos(90+60*\x)},{.25*sin(90+60*\x)});
 	
-	%FROSTED NEEDLE -- at (-4.5,2.5)
-	\draw[rounded corners=0.25pt] (-4.5-0.05,2.5-0.38) rectangle (-4.5+0.05,2.5+0.38);
-	\foreach \p in {1,...,15} \fill[gray] (-4.5+0.075*rand,2.5+0.32*rand) circle (0.35pt); %dots
+	%FROSTED NEEDLE -- at (-4.375,2.5)
+	\draw[rounded corners=0.25pt] (-4.375-0.05,2.5-0.38) rectangle (-4.375+0.05,2.5+0.38);
+	\foreach \p in {1,...,15} \fill[gray] (-4.375+0.075*rand,2.5+0.32*rand) circle (0.35pt); %dots
 	
 	%FROSTED COLUMN -- at (-3.125,2.5)
 	\node[cylinder,draw,shape border rotate=90,shape aspect=.3,minimum height=0.63cm,minimum width=0.325cm] at (-3.125+0,2.5-0.05) {};
@@ -330,7 +330,7 @@
 	\draw (-3.125+0.2,1.35+0.25) to[bend left] (-3.125+0.1,1.35+0.2)--(-3.125+0.1,1.35-0.25) to[bend right] (-3.125+0.2,1.35-0.25)--cycle;	
 	\draw (-3.125-0.1,1.35-0.175) to[bend left] (-3.125+0.1,1.35-0.175); %bottom bend in center
 	
-	%ELEMENTARY SHEATH -- at (-4.5,1)
+	%ELEMENTARY SHEATH -- at (-4.375,1)
 	\filldraw[fill=white,draw=black,very thin,rounded corners=0.5pt] (-4.375-0.12/2,1-0.35)--++(0,2*0.35) to[bend left] ++(0.12,0) -- ++(0,-2*0.35) to[bend left] ++(-0.12,0) -- cycle;
 	
 	%ELEMENTARY NEEDLE -- at (-5.375,1)
