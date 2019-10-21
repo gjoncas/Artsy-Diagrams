@@ -2,9 +2,9 @@
 
 I have repositories with Ti𝑘Z diagrams from <a href="https://github.com/gjoncas/Diagrammatic">philosophy</a>, <a href="https://github.com/gjoncas/Econ-Diagrams">economics</a>, <a href="https://github.com/gjoncas/Lacan-Mathemes">psychoanalysis</a>, and (soon) computer science.
 
-These diagrams come from various sources, such as engineering or graphic design. Often, they involve some interesting feature (such as loops or randomness) that make them a nice way to practice my draftsmanship.
+These diagrams come from various sources, such as engineering or poetry. Often, they involve some interesting feature (such as loops or randomness) that make them a nice way to practice my draftsmanship.
 
-I am less interested in their original meaning, and more in new metaphorical interpretations.
+The diagrams here are interesting less for their original meaning, and more for new possibilities of interpretation.
 
 ## Updates
 
@@ -15,4 +15,16 @@ I am less interested in their original meaning, and more in new metaphorical int
 
 &nbsp;
 
-...
+![cryometric](/pics/bok%20cryometric%20(detail).png)
+
+<b>“Cryometric Index of Poetic Forms,” from Bök - <i>Crystallography</i> (1969), p. 115</b>
+<br>2019.10.21: Finished. &nbsp;[Note: the image is only a detail of the main chart]
+
+&nbsp;
+
+![crystallography](/pics/bok%20crystal%20(small).png)
+
+<b>“Graph charting the meteorological conditions necessary for the crystallization of poetic forms,” from Bök - <i>Crystallography</i> (1969), p. 114</b>
+<br>2019.10.21: Finished.
+
+&nbsp;
