@@ -1,4 +1,4 @@
-# Artsy-Diagrams
+# Artsy Diagrams
 
 I have repositories with Ti𝑘Z diagrams from <a href="https://github.com/gjoncas/Diagrammatic">philosophy</a>, <a href="https://github.com/gjoncas/Econ-Diagrams">economics</a>, <a href="https://github.com/gjoncas/Lacan-Mathemes">psychoanalysis</a>, and (soon) computer science.
 
