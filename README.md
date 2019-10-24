@@ -35,3 +35,10 @@ The diagrams here are evocative less for their original meaning, and more for ne
 <br>2019.10.23: Finished.
 
 &nbsp;
+
+![wave fronts](/pics/wave%20fronts.png)
+
+<b>“Result of a series of wave fronts passing the edge of a wall,” from Taylor - <i>Noise</i> (1970), p. 123</b>
+<br>2019.10.24: Finished. &nbsp;[still a deeper mathematical pattern I can't figure out yet]
+
+&nbsp;
