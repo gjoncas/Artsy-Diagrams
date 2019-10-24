@@ -28,3 +28,10 @@ The diagrams here are evocative less for their original meaning, and more for ne
 <br>2019.10.21: Finished.
 
 &nbsp;
+
+![helix construct](/pics/helix%20construct.png)
+
+<b>French - <i>A Manual of Engineering Drawing for Students and Draftsmen</i> (1929), p. 157</b>
+<br>2019.10.23: Finished.
+
+&nbsp;
