@@ -42,3 +42,10 @@ The diagrams here are evocative less for their original meaning, and more for ne
 <br>2019.10.24: Finished. &nbsp;[still a deeper mathematical pattern I can't figure out yet]
 
 &nbsp;
+
+![scale ratios](/pics/scale%20ratios.png)
+
+<b>“Various tempered scales and their relationship to Pythagorean ratios,” from Wishart - <i>On Sonic Art</i> (1996), p. 174</b>
+<br>2019.10.25: Finished. &nbsp;[the code for this is very elegant]
+
+&nbsp;
