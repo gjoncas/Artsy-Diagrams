@@ -49,3 +49,10 @@ The diagrams here are evocative less for their original meaning, and more for ne
 <br>2019.10.25: Finished. &nbsp;[the code for this is very elegant]
 
 &nbsp;
+
+![negotiating game](/pics/negotiation-game.png)
+
+<b>“Power and Perception Model,” from Karrass - <i>The Negotiating Game</i> (1970), p. 65</b>
+<br>2019.10.24: Finished.
+
+&nbsp;
