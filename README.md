@@ -43,6 +43,13 @@ The diagrams here are evocative less for their original meaning, and more for ne
 
 &nbsp;
 
+![negotiating game](/pics/negotiation-game.png)
+
+<b>“Power and Perception Model,” from Karrass - <i>The Negotiating Game</i> (1970), p. 65</b>
+<br>2019.10.24: Finished.
+
+&nbsp;
+
 ![scale ratios](/pics/scale%20ratios.png)
 
 <b>“Various tempered scales and their relationship to Pythagorean ratios,” from Wishart - <i>On Sonic Art</i> (1996), p. 174</b>
@@ -50,9 +57,9 @@ The diagrams here are evocative less for their original meaning, and more for ne
 
 &nbsp;
 
-![negotiating game](/pics/negotiation-game.png)
+![coincidence effect](/pics/coincidence%20effect.png)
 
-<b>“Power and Perception Model,” from Karrass - <i>The Negotiating Game</i> (1970), p. 65</b>
-<br>2019.10.24: Finished.
+<b>“The coincidence effect,” from Taylor - <i>Noise</i> (1970), fig. 41</b>
+<br>2019.10.29: Finished.
 
 &nbsp;
