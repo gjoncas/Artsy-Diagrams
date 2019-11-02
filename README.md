@@ -63,3 +63,10 @@ The diagrams here are evocative less for their original meaning, and more for ne
 <br>2019.10.29: Finished.
 
 &nbsp;
+
+![necrosemantics](/pics/necrosemantics.png)
+
+<b>Necrosemantics diagram, source unknown (related to <a href="http://bezzzna.blogspot.com/">Bezna</a>)</b>
+<br>2019.11.02: Finished. &nbsp;(‘whose’ is wrong; can't decipher original)
+
+&nbsp;
