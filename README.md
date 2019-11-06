@@ -1,6 +1,6 @@
 # Artsy Diagrams
 
-I have repositories with Ti𝑘Z diagrams from <a href="https://github.com/gjoncas/Diagrammatic">philosophy</a>, <a href="https://github.com/gjoncas/Econ-Diagrams">economics</a>, <a href="https://github.com/gjoncas/Lacan-Mathemes">psychoanalysis</a>, and (soon) computer science.
+I have repositories with Ti𝑘Z diagrams from <a href="https://github.com/gjoncas/Diagrammatic">philosophy</a>, <a href="https://github.com/gjoncas/Econ-Diagrams">economics</a>, <a href="https://github.com/gjoncas/Lacan-Mathemes">psychoanalysis</a>, and <a href="https://github.com/gjoncas/CS-Diagrams">computer science</a>.
 
 The diagrams here come from various sources, such as engineering or poetry. Often, they involve computational features (such as loops or randomness) that make them interesting from a draftsman’s point of view.
 
