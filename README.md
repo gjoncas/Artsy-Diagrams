@@ -8,6 +8,13 @@ The diagrams here are evocative less for their original meaning, and more for ne
 
 ## Updates
 
+![heyser corkscrew](/pics/time-spiral.png)
+
+<b>“Heyser corkscrew,” from Duncan - “The Analytic Impulse” (<a href="http://www.andrewduncan.net/air">1988</a>), p. 317</b>
+<br>2019.10.17: Finished.
+
+&nbsp;
+
 ![color waveforms](/pics/color-waveforms.png)
 
 <b>Color signal waveforms, from Middleton - <i>Using Scopes in Color TV</i> (1969)</b>
