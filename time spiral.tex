@@ -1,0 +1,77 @@
+\documentclass{scrartcl}
+
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{tikz}
+\usepackage{pgfplots}
+
+%TO DO: try 3D arrowheads: https://tex.stackexchange.com/questions/267222/3d-arrows-with-tikz
+
+%Duncan, A. (1988). "The Analytic Impulse." Journal of the Audio Engineering Society 36(5), pp. 315-27
+%Retrieved from http://www.andrewduncan.net/air -- The diagram (fig. 6) is on p. 317.
+%Caption: Heyser corkscrew of $e^{i\omega}$
+
+\begin{document}
+	
+	\begin{tikzpicture}
+	\begin{axis}[
+	view={58}{33},
+	axis line style={draw=none}, tick style={draw=none}, %remove axis
+	xticklabels={}, yticklabels={}, zticklabels={},
+	xmin=0,xmax=10,
+	ymin=-10,ymax=10,
+	zmin=-5,zmax=7.2,
+%	xlabel=$x$,ylabel=$y$,zlabel=$z$
+	]
+	%CENTER
+	\addplot3[domain=2.4:10.5,samples=70] ({y},{-2*sin(4*deg(y))},{2*cos(4*deg(y))});	%spiral
+	%
+	\addplot3[black,dashed,<->,>=latex] coordinates {(1.3,0,0) (12.5,0,0)};	%back-front
+	\addplot3[black,dashed,<->,>=latex] coordinates {(4,-5,0) (4,5,0)};		%left-right
+	\addplot3[black,dashed,<->,>=latex] coordinates {(4,0,-4) (4,0,4)};		%up-down
+	%
+	\addplot3[black,densely dotted] coordinates {(4,5,0) (4,10,0)};			%left-right dotted
+	\addplot3[black,densely dotted] coordinates {(4,2.5,0) (4,2.5,-5)};		%up-down dotted
+	\addplot3[black,densely dotted] coordinates {(4,2.5,0) (-2,1.75,0.1)};	%back-forth dotted
+	%
+	\node at (axis cs:12,1,-1.2){\tiny \textsc{time}};
+	\node at (axis cs:4,1,4)	{\tiny \textsc{im}};
+	\node at (axis cs:4,4,1)	{\tiny \textsc{re}};
+	
+	%BACK -- YZ axis (x=-2)
+	\draw (0,100,500) [x={(0,0,10.75)}] circle (17.5); %NB: edge of circle is +17.5 (for dotted line)
+	%
+	\addplot3[black,dashed] coordinates {(-2,-4,0) (-2,4,0)};	%y-axis (horizontal)
+	\addplot3[black,dashed] coordinates {(-2,0,-4) (-2,0,4)};	%z-axis (vertical)
+	%
+	\addplot3[black] coordinates {(-2,-4,4) (-2,4,4)};		%box top
+	\addplot3[black] coordinates {(-2,-4,-4) (-2,4,-4)};	%box bottom
+	\addplot3[black] coordinates {(-2,-4,-4) (-2,-4,4)};	%box left
+	\addplot3[black] coordinates {(-2,4,-4) (-2,4,4)};		%box right
+	
+	%BOTTOM -- XY axis (z=-5)
+	\addplot3[domain=0.4:8.65,samples=50] ({y},{-2*cos(deg(4*y))},{-5});	%bottom curve
+	%
+	\addplot3[black,dashed] coordinates {(0,0,-5) (9.5,0,-5)};	%x-axis
+	\addplot3[black,dashed] coordinates {(4,-4,-5) (4,4,-5)}; 	%y-axis (horizontal)  %2.4
+	%
+	\addplot3[black] coordinates {(0,-4,-5) (9.5,-4,-5)};	%box left
+	\addplot3[black] coordinates {(0,4,-5) (9.5,4,-5)};		%box right
+	\addplot3[black] coordinates {(0,-4,-5) (0,4,-5)};		%box top
+	\addplot3[black] coordinates {(9.5,-4,-5) (9.5,4,-5)};	%box bottom
+	
+	%SIDE -- XZ axis (y=10)
+	\addplot3[domain=0.75:9,samples=50] ({y},{10},{2*cos(deg(4*y))});	%side curve
+	%
+	\addplot3[black,dashed] coordinates {(0.25,10,0) (9.5,10,0)};	%y-axis (horizontal)
+	\addplot3[black,dashed] coordinates {(4,10,-3.5) (4,10,3.5)};	%z-axis (vertical)
+	%
+	\addplot3[black] coordinates {(0.25,10,-3.5) (9.5,10,-3.5)};	%box bottom
+	\addplot3[black] coordinates {(0.25,10,3.5) (9.5,10,3.5)};		%box top
+	\addplot3[black] coordinates {(0.25,10,-3.5) (0.25,10,3.5)};	%box left
+	\addplot3[black] coordinates {(9.5,10,-3.5) (9.5,10,3.5)};		%box right
+	
+	\end{axis}
+	\end{tikzpicture}
+	
+\end{document}
