@@ -64,6 +64,13 @@ The diagrams here are evocative less for their original meaning, and more for ne
 
 &nbsp;
 
+![music lattice](/pics/music-lattice.png)
+
+<b>“Music on a three-dimensional lattice,” from Wishart - <i>On Sonic Art</i> (1996), p. 26</b>
+<br>2019.10.25: Finished.
+
+&nbsp;
+
 ![coincidence effect](/pics/coincidence%20effect.png)
 
 <b>“The coincidence effect,” from Taylor - <i>Noise</i> (1970), fig. 41</b>
