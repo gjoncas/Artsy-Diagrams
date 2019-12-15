@@ -84,3 +84,10 @@ The diagrams here are evocative less for their original meaning, and more for ne
 <br>2019.11.02: Finished. &nbsp;(‘whose’ is wrong; can't decipher original)
 
 &nbsp;
+
+![metatron](/pics/metatron-cube-variations.png)
+
+<b>variations on Metatron's cube (original: top-right)</b>
+<br>2019.12.15: Finished.
+
+&nbsp;
