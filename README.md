@@ -91,3 +91,10 @@ The diagrams here are evocative less for their original meaning, and more for ne
 <br>2019.12.15: Finished.
 
 &nbsp;
+
+![lupi-envy](/pics/lupi-envy.png)
+
+<b>A Week of Envy, from Lupi & Posavec - <i>Dear Data</i> (2016), p. 174</b>
+<br>2020.03.21: Finished.
+
+&nbsp;
