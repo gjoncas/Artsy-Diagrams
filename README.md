@@ -98,3 +98,10 @@ The diagrams here are evocative less for their original meaning, and more for ne
 <br>2020.03.21: Finished.
 
 &nbsp;
+
+![psychadelic-adjacency](/pics/psychadelic-adjacency.png)
+
+<b>Psychadelic Adjacency, from Couroux - Knowledge Exchange Lecture (<a href="http://vocalitiesavc.blogspot.com/2013/12/knowledge-exchange-lecture-marc-couroux.html">2013</a>)</b>
+<br>2020.08.18: Finished.
+
+&nbsp;
