@@ -4,7 +4,7 @@ I have repositories with Ti𝑘Z diagrams from <a href="https://github.com/gjonc
 
 The diagrams here come from various sources, such as engineering or poetry. Often, they involve computational features (such as loops or randomness) that make them interesting from a draftsman’s point of view.
 
-The diagrams here are evocative less for their original meaning, and more for new possibilities of interpretation.
+The diagrams here are evocative just as much for their original meaning, as for new possibilities of interpretation.
 
 ## Updates
 
