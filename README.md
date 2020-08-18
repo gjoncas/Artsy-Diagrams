@@ -99,9 +99,9 @@ The diagrams here are evocative just as much for their original meaning, as for 
 
 &nbsp;
 
-![psychadelic-adjacency](/pics/psychadelic-adjacency.png)
+![psychedelic-adjacency](/pics/psychedelic-adjacency.png)
 
-<b>Psychadelic Adjacency, from Couroux - Knowledge Exchange Lecture (<a href="http://vocalitiesavc.blogspot.com/2013/12/knowledge-exchange-lecture-marc-couroux.html">2013</a>)</b>
+<b>Psychedelic Adjacency, from Couroux - Knowledge Exchange Lecture (<a href="http://vocalitiesavc.blogspot.com/2013/12/knowledge-exchange-lecture-marc-couroux.html">2013</a>)</b>
 <br>2020.08.18: Finished.
 
 &nbsp;
