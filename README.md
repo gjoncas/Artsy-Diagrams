@@ -106,6 +106,13 @@ The diagrams here are evocative just as much for their original meaning, as for 
 
 &nbsp;
 
+![deleuze-time](/pics/deleuze-eternity.png)
+
+<b>Deleuze on time, by Brenton Ables, based on <i>A Deleuzian Theory of Eternity</i> (<a href="https://atrium.lib.uoguelph.ca/xmlui/handle/10214/14775">2019</a>)</b>
+<br>2020.08.20: Finished.
+
+&nbsp;
+
 ![blake-victor](/pics/blake-victor.png)
 
 <b>Phase portrait of the Ashtanga Yoga Sutras, by <a href="https://twitter.com/intendtogether">Blake Victor</a></b>
