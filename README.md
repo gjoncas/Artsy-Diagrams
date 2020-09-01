@@ -105,3 +105,10 @@ The diagrams here are evocative just as much for their original meaning, as for 
 <br>2020.08.18: Finished.
 
 &nbsp;
+
+![blake-victor](/pics/blake-victor.png)
+
+<b>Phase portrait of the Ashtanga Yoga Sutras, by <a href="https://twitter.com/intendtogether">Blake Victor</a></b>
+<br>2020.08.26: Finished.
+
+&nbsp;
