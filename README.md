@@ -119,3 +119,10 @@ The diagrams here are evocative just as much for their original meaning, as for 
 <br>2020.08.26: Finished.
 
 &nbsp;
+
+![couroux-mobius-modality](/pics/couroux-mobius-modality-small.png)
+
+<b>Möbius modality, by <a href="https://twitter.com/xenopraxis">Marc Couroux</a></b>
+<br>2020.09.01: Finished.
+
+&nbsp;
