@@ -113,6 +113,13 @@ The diagrams here are evocative just as much for their original meaning, as for 
 
 &nbsp;
 
+![lunar-eclipse](/pics/lunar-eclipse.png)
+
+<b>Lunar Eclipse, by Abu Rayhan al-Biruni (1019)</b>
+<br>2020.08.24: Finished.
+
+&nbsp;
+
 ![blake-victor](/pics/blake-victor.png)
 
 <b>Phase portrait of the Ashtanga Yoga Sutras, by <a href="https://twitter.com/intendtogether">Blake Victor</a></b>
