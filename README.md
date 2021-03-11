@@ -133,3 +133,10 @@ The diagrams here are evocative just as much for their original meaning, as for 
 <br>2020.09.01: Finished.
 
 &nbsp;
+
+![hobbes-marrow-of-measuring](/pics/hobbes-marrow.png)
+
+<b>From <i>Mellificium Mensionis: Or, the Marrow of Measuring</i> (<a href="https://catalog.hathitrust.org/Record/000208506">1727</a>), by Thomas Hobbes</b>
+<br>2021.03.10: Finished.
+
+&nbsp;
