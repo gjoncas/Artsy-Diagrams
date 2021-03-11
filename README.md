@@ -134,6 +134,13 @@ The diagrams here are evocative just as much for their original meaning, as for 
 
 &nbsp;
 
+![3d-chart](/pics/jordan-hoelscher-3d.png)
+
+<b>Three-Dimensional Chart, from Jordan & Hoelscher - <i>Engineering Drawing</i> (1935), p. 314</b>
+<br>2021.03.09: Finished.
+
+&nbsp;
+
 ![marrow-of-measuring](/pics/marrow-measuring.png)
 
 <b>From <i>Mellificium Mensionis: Or, the Marrow of Measuring</i> (<a href="https://archive.org/details/mellificiummensi00mand/page/n537/mode/2up">1727</a>), by Venterus Mandey</b>
