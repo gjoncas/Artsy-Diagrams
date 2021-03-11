@@ -134,9 +134,9 @@ The diagrams here are evocative just as much for their original meaning, as for 
 
 &nbsp;
 
-![hobbes-marrow-of-measuring](/pics/hobbes-marrow.png)
+![marrow-of-measuring](/pics/marrow-measuring.png)
 
-<b>From <i>Mellificium Mensionis: Or, the Marrow of Measuring</i> (<a href="https://catalog.hathitrust.org/Record/000208506">1727</a>), by Thomas Hobbes</b>
+<b>From <i>Mellificium Mensionis: Or, the Marrow of Measuring</i> (<a href="https://archive.org/details/mellificiummensi00mand/page/n537/mode/2up">1727</a>), by Venterus Mandey</b>
 <br>2021.03.10: Finished.
 
 &nbsp;
