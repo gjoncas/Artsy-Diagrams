@@ -147,3 +147,10 @@ The diagrams here are evocative just as much for their original meaning, as for 
 <br>2021.03.10: Finished.
 
 &nbsp;
+
+![intersection-conflict](/pics/intersection-conflict.png)
+
+<b>Conflict points at an intersection of two-way streets, from Weston - <i>The Police Traffic Control Function</i> (1960)</b>
+<br>2021.03.11: Finished.
+
+&nbsp;
