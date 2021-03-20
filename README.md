@@ -161,3 +161,10 @@ The diagrams here are evocative just as much for their original meaning, as for 
 <br>2021.03.11: Finished.
 
 &nbsp;
+
+![bird-sternum](/pics/bird-sternum.png)
+
+<b>Hinged ribs and sternum of birds, from Schmidt-Nielsen - <i>How Animals Work</i> (1972)</b>
+<br>2021.03.14: Finished.
+
+&nbsp;
