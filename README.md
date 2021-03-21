@@ -162,6 +162,13 @@ The diagrams here are evocative just as much for their original meaning, as for 
 
 &nbsp;
 
+![ring-wound-armature](/pics/ring-wound-armature.png)
+
+<b>Ring-wound armature, from Hickey & Villines - <i>Elements of Electronics</i> (1955)</b>
+<br>2021.03.13: Finished.
+
+&nbsp;
+
 ![bird-sternum](/pics/bird-sternum.png)
 
 <b>Hinged ribs and sternum of birds, from Schmidt-Nielsen - <i>How Animals Work</i> (1972)</b>
