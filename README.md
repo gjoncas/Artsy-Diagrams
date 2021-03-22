@@ -175,3 +175,10 @@ The diagrams here are evocative just as much for their original meaning, as for 
 <br>2021.03.14: Finished.
 
 &nbsp;
+
+![negotiation-possibilities](/pics/negotiation-possibilities.png)
+
+<b>From Garin, Grant & Saunders - <i>A Negotiations Model: a Form for Private and Public Sector Bargaining</i> (1973)</b>
+<br>2021.03.14: Finished. &nbsp;[Diagram of the Possibilities in Any Negotiation]
+
+&nbsp;
