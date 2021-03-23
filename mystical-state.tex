@@ -1,0 +1,61 @@
+\documentclass[border={0.1cm 0.1cm 0.1cm 0.1cm}]{standalone}  %E,S,W,N
+
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{tikz}
+
+\begin{document}
+	
+	\begin{tikzpicture}[very thick]
+	%SQUARES
+	\draw (0,0)--(0,3.45)--(3,2.7)--(3,-1.63)--cycle; %front square
+	\draw (5.575,1.4)--(5.575,4.4)--(3.5,4.875)--(3.5,2.35)--cycle; %middle square
+	\draw (6.2,4.15)--(7.6,3.8)--(7.6,5.7)--(6.2,6)--cycle; %back square
+	\fill (0,3.45) circle (2.5pt);
+	\fill (5.575,1.4) circle (2.5pt);
+	\fill (6.2,6) circle (2.5pt);
+	
+	%LINES
+	\draw (0,0)--(6.2,4.15); %bottom-back line
+	\draw (0,3.45)--(6.2,6); %top-back line
+	\draw (3,-1.65)--(7.6,3.8); %bottom-front line
+	\draw (3,2.7)--(7.6,5.7); %top-front line
+	\fill[opacity=0.15] (5.575,1.4)--(3.5,2.35)--(6.2,4.15)--(7.6,3.8)--cycle;
+	
+	%CURVES
+	\draw (0,3.45) .. controls (1,0.75) .. (3,-1.63); %front
+	\draw (0,3.45) .. controls (2.5,1.8) .. (5.575,1.4); %front-to-mid
+	\draw (3.5,4.875) .. controls (4.25,2.75) .. (5.575,1.4); %mid
+	\draw (5.575,1.4) .. controls (5.6,3.25) .. (6.2,6); %mid-to-back
+	\draw (7.6,3.8) .. controls (7.25,4) and (6.65,4.65) .. (6.2,6); %back
+	
+	%LABELS
+	\node[above] at (0,3.55) {\bfseries M};
+	\node[align=center] at (0,4.55) {Mystical State \\ (proper)};
+	\node[align=right,left] at (-0.15,3.35) {high};
+	\node[align=right,left] at (-0.15,1.83) {Attention};
+	\node[align=right,left] at (-0.15,0.23) {low};
+	\draw[very thick,->,>=stealth] (-0.4,0.4)--(-0.4,1.6);
+	\draw[very thick,->,>=stealth] (-0.4,2)--(-0.4,3.05);
+	%
+	\node at (0.15,-0.35) {\rotatebox{-30}{zero}};
+	\node at (0.75,-1.1) {\rotatebox{-30}{Things}};
+	\draw[very thick,->,>=stealth] (1.3,-1.4)--(2.05,-1.8);
+	\node at (2.75,-1.75) {\rotatebox{-25}{$n$}};
+	%
+	\node at (5.15,1.25) {\bfseries A};
+	\node at (3.5,-1.5) {\rotatebox{50}{high}};
+	\node at (5.75,1.2) {\rotatebox{50}{low}};
+	\node at (7.85,3.7) {\rotatebox{50}{high}};
+	\node at (5,-0.1) {\rotatebox{50}{Intensity}}; %left
+	\draw[very thick,->,>=stealth] (4.5,-0.75)--(3.95,-1.4);
+	\node at (6.75,1.95) {\rotatebox{50}{Intensity}}; %right
+	\draw[very thick,->,>=stealth] (7.25,2.5)--(7.9,3.27);
+	%\node[align=center] at (8,1.15) {Average State \\ (everyday level)};
+	\node[align=center] at (7.25,0.6) {Average State \\ (everyday level)};
+	%
+	\node[above] at (6.1,6.05) {\bfseries $-$M};
+	\node[align=center] at (6.75,7.1) {Dark Mystical State (proper) \\ or Dark Night of the Soul};
+	\end{tikzpicture}
+	
+\end{document}
