@@ -134,6 +134,13 @@ The diagrams here are evocative just as much for their original meaning, as for 
 
 &nbsp;
 
+![mystical-state](/pics/mystical-state.png)
+
+<b>Mystical state,  Clark - <i>A Map of Mental States</i> (1983), fig. 11.2</b>
+<br>2021.03.07: Finished.
+
+&nbsp;
+
 ![3d-chart](/pics/jordan-hoelscher-3d.png)
 
 <b>Three-Dimensional Chart, from Jordan & Hoelscher - <i>Engineering Drawing</i> (1935), p. 314</b>
