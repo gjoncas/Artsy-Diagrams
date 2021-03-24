@@ -141,6 +141,13 @@ The diagrams here are evocative just as much for their original meaning, as for 
 
 &nbsp;
 
+![lost-meaning](/pics/lost-meaning.png)
+
+<b>Sudden Lost Meaning Cusp Catastrophe, from Karathanos, Pettypool & Troutt (<a href="http://libgen.rs/scimag/10.1108%2F00251749410050679">1994</a>: 18)</b>
+<br>2021.03.07: Finished.
+
+&nbsp;
+
 ![3d-chart](/pics/jordan-hoelscher-3d.png)
 
 <b>Three-Dimensional Chart, from Jordan & Hoelscher - <i>Engineering Drawing</i> (1935), p. 314</b>
