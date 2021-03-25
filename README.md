@@ -196,3 +196,10 @@ The diagrams here are evocative just as much for their original meaning, as for 
 <br>2021.03.14: Finished. &nbsp;[Diagram of the Possibilities in Any Negotiation]
 
 &nbsp;
+
+![gyroscopic](/pics/gyroscopic.png)
+
+<b>Gyroscopic concept, source unknown</b>
+<br>2021.03.25: Finished.
+
+&nbsp;
